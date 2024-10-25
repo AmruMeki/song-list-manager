@@ -1,4 +1,4 @@
-# song list manager
+# Song list manager
 
 That creates , update and delete song list 
 this projected done by using
